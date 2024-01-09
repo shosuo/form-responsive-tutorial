@@ -120,15 +120,15 @@ form .button input:hover{
 }
 @media (max-width: 584px){
     .container{
-        max-width: 100%;
+        max-width: 90%;
 
     }
     form .user-details .input-box{
-        width: 100%;
+        width: 90%;
         margin-bottom: 15px;
     }
     form .gender-details .category{
-        width: 100%;
+        width: 90%;
     }
     .container form user-details{
         max-height: 450px;
